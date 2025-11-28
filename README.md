@@ -21,6 +21,8 @@ A tiny Terraform demo that writes a local file and contains example EC2 config.
 
    ```sh
    terraform init
+   ```
+
 2. See what Terraform will do:
 
    ```sh
@@ -39,7 +41,7 @@ A tiny Terraform demo that writes a local file and contains example EC2 config.
 
    ```sh
    terraform destroy
-    ```
+   ```
 
 ## Notes
 
